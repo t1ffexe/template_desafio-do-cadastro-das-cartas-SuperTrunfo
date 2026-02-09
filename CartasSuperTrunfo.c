@@ -81,17 +81,17 @@ int main () {
     //Impressão da primeira carta
      printf("DADOS DA PRIMEIRA CARTA: \n");
         printf("\n");
-    printf("Número da carta: %d\n", carta);
+    printf("Número da Carta: %d\n", carta);
          printf("\n");
-    printf("Letra do estado: %c\n", letradoEstado);
+    printf("Letra do Estado: %c\n", letradoEstado);
          printf("\n");
-    printf("Código da cidade: %s\n", codigodaCidade);
+    printf("Código da Cidade: %s\n", codigodaCidade);
          printf("\n");
     printf("Nome da Cidade: %s\n", nomedaCidade);
          printf("\n");
     printf("População: %i\n", populacao);
          printf("\n");
-    printf("Área da cidade: %f\n", areakm);
+    printf("Área da Cidade: %f\n", areakm);
          printf("\n");    
     printf("PIB: %f\n", pib);
          printf("\n");
@@ -105,17 +105,17 @@ int main () {
     //Impressão da segunda carta
      printf("DADOS DA SEGUNDA CARTA: \n");
          printf("\n");
-    printf("Número da carta: %d\n", carta2);
+    printf("Número da Carta: %d\n", carta2);
          printf("\n");
-    printf("Letra do estado: %c\n", letradoEstado2);
+    printf("Letra do Estado: %c\n", letradoEstado2);
          printf("\n");
-    printf("Código da cidade: %s\n", codigodaCidade2);
+    printf("Código da Cidade: %s\n", codigodaCidade2);
          printf("\n");
     printf("Nome da Cidade: %s\n", nomedaCidade2);
          printf("\n");
     printf("População: %i\n", populacao2);
          printf("\n");
-    printf("Área da cidade: %f\n", areakm2);
+    printf("Área da Cidade: %f\n", areakm2);
          printf("\n");
     printf("PIB: %f\n", pib2);
          printf("\n");
