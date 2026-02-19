@@ -158,7 +158,7 @@ int main () {
           printf("\n\n\n"); 
 
 
-     //Comparação das cartas
+     //Comparações das cartas
 
 
           printf("Comparação das Cartas: \n \n \n");
